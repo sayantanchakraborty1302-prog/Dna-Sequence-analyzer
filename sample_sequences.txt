@@ -1,0 +1,16 @@
+#Input :ATGCGTACGTTAG
+
+#Output 
+GC Content: 53.8%
+
+Complement:
+TACGCATGCAATC
+
+Reverse Complement:
+CTAACGTACGCAT
+
+RNA Transcription:
+AUGCGUACGUUAG
+
+Protein Translation:
+MRTL
