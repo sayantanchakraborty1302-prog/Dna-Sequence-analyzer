@@ -6,4 +6,4 @@ Features:
 - Complement and reverse complement
 - DNA to RNA transcription
 - RNA to protein translation
-- FASTA file support
+- FASTA file support# Dna-Sequence-analyzer
